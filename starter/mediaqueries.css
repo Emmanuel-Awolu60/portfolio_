@@ -19,6 +19,9 @@
   #hamburger-nav {
     display: flex;
   }
+
+ 
+
   #experience,
   .experience-details-container {
     margin-top: 2rem;
@@ -68,6 +71,11 @@
     height: fit-content;
     margin-bottom: 2rem;
   }
+
+  .details-container{
+    margin-bottom: 20px;
+  }
+
   .about-containers,
   .contact-info-upper-container,
   .btn-container {
